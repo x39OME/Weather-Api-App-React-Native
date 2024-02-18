@@ -25,7 +25,8 @@
 - npm i react-native-responsive-screen
 - npm i react-native-heroicons
 - npm i react-native-heroicons react-native-svg
-- npm i react-native-axios
+- npm install axios => React Js
+- npm i react-native-axios => React Native
 - npm i react-native-progress
 - npm i @react-native-async-storage/async-storage
 ```

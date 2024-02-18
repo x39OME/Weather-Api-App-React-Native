@@ -12,6 +12,7 @@
 ### 3- [React Navigation](https://reactnavigation.org/)
 ### 4- [React Native heroicons](https://www.npmjs.com/package/react-native-heroicons)
 ### 5- [Weather API](https://www.weatherapi.com/)
+### 6- [React Native Axios](https://www.npmjs.com/package/react-native-axios)
 
 ## Steps
 - npx create-expo-app Weather-App-Ui
@@ -24,6 +25,7 @@
 - npm i react-native-responsive-screen
 - npm i react-native-heroicons
 - npm i react-native-heroicons react-native-svg
+- npm i react-native-axios
 - npm i react-native-progress
 - npm i @react-native-async-storage/async-storage
 ```

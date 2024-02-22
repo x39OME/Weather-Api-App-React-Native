@@ -1,10 +1,5 @@
 # Weather App React Native
 
-## Preview Final Project
-
-#### Home Screen
-
-<img src="./preview/homescreen.jpg" style="width:350px;" alt=" Home" />
 
 ## What did we use in the project?
 ### 1- [React Native Expo](https://reactnative.dev/)
@@ -14,7 +9,7 @@
 ### 5- [Weather API](https://www.weatherapi.com/)
 ### 6- [React Native Axios](https://www.npmjs.com/package/react-native-axios)
 
-## Steps
+## Packages
 - npx create-expo-app Weather-App-Ui
 - npm i nativewind
 - npm i --dev tailwindcss@3.3.2
@@ -59,6 +54,13 @@ module.exports = function (api) {
   };
 };
 ```
+## Preview Final Project
+
+#### Home Screen
+
+<img src="./preview/bg.jpg" style="width:350px;" alt="bg" /> <img src="./preview/bg2.jpg" style="width:350px;" alt="bg2" />
+<img src="./preview/bg3.jpg" style="width:350px;" alt="bg3" /> <img src="./preview/bg4.jpg" style="width:350px;" alt="bg4" />
+
 
 ## Run The Project
 - Download

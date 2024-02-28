@@ -58,8 +58,8 @@ module.exports = function (api) {
 
 #### Home Screen
 
-<img src="./preview/bg.jpg" style="width:350px;" alt="bg" /> <img src="./preview/bg2.jpg" style="width:350px;" alt="bg2" />
-<img src="./preview/bg3.jpg" style="width:350px;" alt="bg3" /> <img src="./preview/bg4.jpg" style="width:350px;" alt="bg4" />
+<img src="./preview/bg.jpg" style="width:300px;" alt="bg" /> <img src="./preview/bg2.jpg" style="width:300px;" alt="bg2" />
+<img src="./preview/bg3.jpg" style="width:300px;" alt="bg3" /> <img src="./preview/bg4.jpg" style="width:300px;" alt="bg4" />
 
 
 ## Run The Project

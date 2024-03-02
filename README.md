@@ -1,4 +1,4 @@
-# Weather App React Native
+# Weather Api App Ui React Native
 
 
 ## What did we use in the project?
